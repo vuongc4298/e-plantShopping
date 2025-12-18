@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.background-image {
+  background-image: url("https://images.unsplash.com/photo-1501004318641-b39e6451bec6");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
